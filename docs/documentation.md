@@ -5,7 +5,7 @@ I have added most of the comments and have attempted to type hint as much of the
 in the reproduction as possible. 
 
 ### gin/models
-> MLP from mlp.py is used in GIN and Model in models/model.py <br>
+> MLP from mlp.py is used in (1) GIN and Model in models/model.py (2)  <br>
 > GraphConvolution from graphcnn.py is used in VAEncoder and Encoder in models/model.py 
 #### MLP
 ```python
