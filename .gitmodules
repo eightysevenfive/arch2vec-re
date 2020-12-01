@@ -1,3 +1,6 @@
 [submodule "Original/arch2vec"]
 	path = Original/arch2vec
 	url = https://github.com/MSU-MLSys-Lab/arch2vec.git
+[submodule "original/arch2vec"]
+	path = original/arch2vec
+	url = https://github.com/MSU-MLSys-Lab/arch2vec.git
