@@ -1,2 +1,3 @@
 # arch2vec-re
-Reproduction of arXiv:2006.06936
+
+Attempted reproduction of arXiv:2006.06936; Inactive, Dropped 
